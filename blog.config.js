@@ -11,12 +11,12 @@ const BLOG = {
   darkBackground: '#18181B', // use hex value, don't forget '#'
   path: '', // leave this empty unless you want to deploy Nobelium in a folder
   since: 2021, // If leave this empty, current year will be used.
-  postsPerPage: 7,
+  postsPerPage: 15,
   sortByDate: false,
   showAbout: true,
   showArchive: true,
   autoCollapsedNavBar: false, // The automatically collapsed navigation bar
-  ogImageGenerateURL: 'https://img-1259210397.cos.ap-guangzhou.myqcloud.com/toonmecom_cb1458.jpg', // The link to generate OG image, don't end with a slash
+  ogImageGenerateURL: 'https://img-1259210397.cos.ap-guangzhou.myqcloud.com/notion-avatar-1649732882757.png', // The link to generate OG image, don't end with a slash
   socialLink: 'https://twitter.com/leidichen',
   seo: {
     keywords: ['Blog', 'Website', 'Notion'],
