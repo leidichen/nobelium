@@ -1,7 +1,7 @@
 const Vercel = () => {
   return (
     <a
-      href="https://https://www.lenband.com"
+      href="https://www.lenband.com"
       target="_blank"
       rel="noreferrer"
       aria-label="Vercel"
