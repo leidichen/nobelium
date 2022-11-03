@@ -16,7 +16,7 @@ const BLOG = {
   showAbout: true,
   showArchive: true,
   autoCollapsedNavBar: false, // The automatically collapsed navigation bar
-  ogImageGenerateURL: 'https://img-1259210397.cos.ap-guangzhou.myqcloud.com/notion-avatar-1649732882757.png', // The link to generate OG image, don't end with a slash
+  ogImageGenerateURL: 'https://og-image-craigary.vercel.app', // The link to generate OG image, don't end with a slash
   socialLink: 'https://twitter.com/leidichen',
   seo: {
     keywords: ['Blog', 'Website', 'Notion'],
