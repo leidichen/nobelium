@@ -3,7 +3,7 @@ const BLOG = {
   author: 'leidichen',
   email: 'leidison@163.com',
   link: 'https://leidison.com',
-  description: '探索先进的效率工具，让生活变得更美好！',
+  description: '探索先进的效率工具！',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
